@@ -1,0 +1,11 @@
+{"time":"2025-03-26T17:46:51.7259217+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-03-26T17:46:51.7265357+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ADMIN\\Downloads\\T5-Finetuning-EVMT\\wandb\\run-20250326_174651-tig0xs36\\logs\\debug-core.log"}
+{"time":"2025-03-26T17:46:51.8733568+07:00","level":"INFO","msg":"created new stream","id":"tig0xs36"}
+{"time":"2025-03-26T17:46:51.8745093+07:00","level":"INFO","msg":"stream: started","id":"tig0xs36"}
+{"time":"2025-03-26T17:46:51.8745093+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"tig0xs36"}
+{"time":"2025-03-26T17:46:51.8745093+07:00","level":"INFO","msg":"handler: started","stream_id":"tig0xs36"}
+{"time":"2025-03-26T17:46:51.8745093+07:00","level":"INFO","msg":"sender: started","stream_id":"tig0xs36"}
+{"time":"2025-03-26T17:46:52.4366686+07:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-26T17:46:52.8021812+07:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-26T17:46:52.8147351+07:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-26T17:48:47.9120736+07:00","level":"INFO","msg":"Pausing system monitor"}

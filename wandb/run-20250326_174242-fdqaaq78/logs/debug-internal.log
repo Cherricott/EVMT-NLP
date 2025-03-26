@@ -1,0 +1,8 @@
+{"time":"2025-03-26T17:42:47.8500238+07:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-03-26T17:42:47.8500238+07:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\ADMIN\\Downloads\\T5-Finetuning-EVMT\\wandb\\run-20250326_174242-fdqaaq78\\logs\\debug-core.log"}
+{"time":"2025-03-26T17:42:48.2604205+07:00","level":"INFO","msg":"created new stream","id":"fdqaaq78"}
+{"time":"2025-03-26T17:42:48.2604205+07:00","level":"INFO","msg":"stream: started","id":"fdqaaq78"}
+{"time":"2025-03-26T17:42:48.2604205+07:00","level":"INFO","msg":"writer: Do: started","stream_id":"fdqaaq78"}
+{"time":"2025-03-26T17:42:48.2604205+07:00","level":"INFO","msg":"sender: started","stream_id":"fdqaaq78"}
+{"time":"2025-03-26T17:42:48.2604205+07:00","level":"INFO","msg":"handler: started","stream_id":"fdqaaq78"}
+{"time":"2025-03-26T17:42:48.7167796+07:00","level":"INFO","msg":"Starting system monitor"}
