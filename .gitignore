@@ -1,4 +1,5 @@
-evb-opennmt/model
+evb-opennmt/model/*
+!evb-opennmt/model/config.yaml
 evb-opennmt/corpus
 evb-opennmt/logs
 evb-opennmt.zip
