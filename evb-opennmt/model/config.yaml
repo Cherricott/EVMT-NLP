@@ -13,10 +13,10 @@ data:
         path_src: EVBCorpus_EVBNews_v2.0.en-filtered.en.subword.train
         path_tgt: EVBCorpus_EVBNews_v2.0.vn-filtered.vn.subword.train
         transforms: [filtertoolong]
-#    corpus_2:
-#        path_src: idioms_oversampled2.en.subword
-#        path_tgt: idioms_oversampled2.vn.subword
-#        transforms: [filtertoolong]
+    corpus_2:
+        path_src: idioms_oversampled2.en.subword
+        path_tgt: idioms_oversampled2.vn.subword
+        transforms: [filtertoolong]
     valid:
         path_src: EVBCorpus_EVBNews_v2.0.en-filtered.en.subword.dev
         path_tgt: EVBCorpus_EVBNews_v2.0.vn-filtered.vn.subword.dev
