@@ -22,7 +22,6 @@ sp_target_model = spm.SentencePieceProcessor(sp_target_model_path)
 st.set_page_config(page_title="OpenNMT", page_icon="📖")
 st.title("OpenNMT Translate")
 
-# Form to add your items
 with st.form("my_form"):
     # Text area for source text
     user_input = st.text_area(
